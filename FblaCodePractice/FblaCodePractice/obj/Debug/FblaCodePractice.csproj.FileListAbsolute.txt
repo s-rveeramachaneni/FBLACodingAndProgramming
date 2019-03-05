@@ -1,0 +1,10 @@
+C:\Users\rishi\Documents\STEM 18-19\Clubs\fbla\FblaCodePractice\FblaCodePractice\bin\Debug\FblaCodePractice.exe.config
+C:\Users\rishi\Documents\STEM 18-19\Clubs\fbla\FblaCodePractice\FblaCodePractice\bin\Debug\FblaCodePractice.exe
+C:\Users\rishi\Documents\STEM 18-19\Clubs\fbla\FblaCodePractice\FblaCodePractice\bin\Debug\FblaCodePractice.pdb
+C:\Users\rishi\Documents\STEM 18-19\Clubs\fbla\FblaCodePractice\FblaCodePractice\obj\Debug\FblaCodePractice.csprojAssemblyReference.cache
+C:\Users\rishi\Documents\STEM 18-19\Clubs\fbla\FblaCodePractice\FblaCodePractice\obj\Debug\FblaCodePractice.FblaCodePractice.resources
+C:\Users\rishi\Documents\STEM 18-19\Clubs\fbla\FblaCodePractice\FblaCodePractice\obj\Debug\FblaCodePractice.Properties.Resources.resources
+C:\Users\rishi\Documents\STEM 18-19\Clubs\fbla\FblaCodePractice\FblaCodePractice\obj\Debug\FblaCodePractice.csproj.GenerateResource.cache
+C:\Users\rishi\Documents\STEM 18-19\Clubs\fbla\FblaCodePractice\FblaCodePractice\obj\Debug\FblaCodePractice.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Documents\STEM 18-19\Clubs\fbla\FblaCodePractice\FblaCodePractice\obj\Debug\FblaCodePractice.exe
+C:\Users\rishi\Documents\STEM 18-19\Clubs\fbla\FblaCodePractice\FblaCodePractice\obj\Debug\FblaCodePractice.pdb
